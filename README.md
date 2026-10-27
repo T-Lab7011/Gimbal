@@ -2,6 +2,10 @@
 
 CAD model for the Gimbal project.
 
+## Video
+
+[Watch on YouTube Shorts](https://www.youtube.com/shorts/ZjIYJ557E4c)
+
 ## Files
 
 - [`gimbal.step`](gimbal.step) — original STEP CAD model
